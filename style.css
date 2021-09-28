@@ -1,0 +1,76 @@
+/* .update--0 {
+    color: white;
+    background-color: orangered;
+}
+
+.update--1 {
+    color: yellow;
+    background-color:orchid;
+}
+.update--2 {
+    color: blue;
+    background-color: palegreen;
+}
+
+.update--3 {
+    color: rgb(148, 112, 216);
+    background-color: salmon;
+}
+
+.update--4 {
+    color: slateblue;
+    background-color: violet;
+} */
+
+
+/* 2-r jishe */
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrap {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.wrap .box{
+    height: 200px;
+    width: 200px;
+    
+    border-radius: 20px;
+    cursor: pointer;
+    transition: ease-in-out .5s;
+    
+}
+
+
+
+.wrap .box:nth-child(1){
+    background-color: #e66767;
+}
+
+.wrap .box:nth-child(2){
+    background-color: #778beb;
+}
+
+.wrap .box:nth-child(3){
+    background-color: #f8a5c2;
+}
+.wrap .box:nth-child(4){
+    background-color: #e0d039;
+}
+
+
+.active {
+    width: 800px !important
+}
+ */
+
+
+
